@@ -1,4 +1,5 @@
-# Unit 4 Homework Assignment: A Whale Off the Port(folio)
+# Unit 4 Homework Assignment: A Whale Off the Port(folio) 
+##PLEASE IGNORE FIRST IPYNB I ACCIDENTLY UPLOADED TWICE, PROPER FILE IS IN STARTERCODE>whale_analysis.pynb
 
 ![Portfolio Analysis](Images/portfolio-analysis.png)
 
